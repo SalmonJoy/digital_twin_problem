@@ -1,0 +1,13 @@
+{
+  "risk_score": 0.78,
+  "risk_band": "high",
+  "explanations": {
+    "top_features": [
+      { "name": "chronic_pain_level", "contribution": 0.21 },
+      { "name": "hormone_level_abnormality", "contribution": 0.15 },
+      { "name": "menstrual_irregularity", "contribution": 0.12 }
+    ]
+  },
+  "model_version": "tabular_v1",
+  "generated_at": "2026-02-20T00:00:00Z"
+}

@@ -1,0 +1,17 @@
+﻿{
+  "module": "tabular",
+  "dataset": "structured_endometriosis_data.csv",
+  "model_version": "tabular_v1",
+  "metrics": {
+    "roc_auc": 0.82,
+    "pr_auc": 0.79,
+    "brier": 0.16,
+    "f1": 0.74
+  },
+  "split": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15,
+    "random_seed": 42
+  }
+}
